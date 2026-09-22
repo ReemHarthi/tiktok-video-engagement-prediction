@@ -11,5 +11,5 @@ This repository contains the Machine Learning pipeline built for the In-Class Ka
 - **Evaluation Metric**: Root Mean Squared Error (RMSE).
 
 ## Repository Files
-- `TikTok_Engagement_Prediction.ipynb`: Complete reproducible pipeline code.
+- `TikTok_Prediction.ipynb`: Complete reproducible pipeline code.
 - `submission.csv`: Final target predictions for Kaggle leaderboard.
